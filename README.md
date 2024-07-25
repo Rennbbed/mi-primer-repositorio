@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-My repository
+# Hola Mundo
+Mi nombre es Ebert, estudiante de la carrera Ingenieria Industrial
